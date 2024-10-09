@@ -1,0 +1,49 @@
+
+.image {
+    width: 80%;
+    height: 80%;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.podcast-title{
+    text-align: center;
+}
+
+.search-bar {
+    width: 100%;
+    border:none;
+    border-radius: 1.5rem;
+    display: flex;
+    align-items: center;
+    height: 1.7rem;
+    padding: 20px;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 31.25rem;
+  margin: 6rem auto;
+}
+
+.container {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+
+}
+
+.box {
+    padding-left: 20px;
+    width: 400px;
+}
+
+ul li {
+    list-style-type: none;
+}
